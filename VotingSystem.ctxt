@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VotingSystem
+comment1.params=
+comment1.target=boolean\ validateUser()
+comment2.params=
+comment2.target=int\ totalVoteCount()
+comment3.params=
+comment3.target=void\ incrementTotalCount()
+comment4.params=
+comment4.target=VotingSystem()
+comment5.params=firstName\ lastName
+comment5.target=VotingSystem(java.lang.String,\ java.lang.String)
+comment6.params=firstName
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=lastName
+comment7.target=void\ setLastName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getFirstName()
+comment9.params=
+comment9.target=java.lang.String\ getLastName()
+numComments=10

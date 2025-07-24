@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Candidate
+comment1.params=firstName\ lastName\ partyName\ votesCount
+comment1.target=Candidate(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPartyName()
+comment3.params=
+comment3.target=int\ getVotesCount()
+comment4.params=votesCount
+comment4.target=void\ setVotesCount(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=boolean\ validateUser()
+comment7.params=
+comment7.target=int\ totalVoteCount()
+numComments=8

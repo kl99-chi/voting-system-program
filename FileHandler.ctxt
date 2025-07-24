@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FileHandler
+comment1.params=fileName\ voter
+comment1.target=void\ writeVoterInfo(java.lang.String,\ Voter)
+numComments=2

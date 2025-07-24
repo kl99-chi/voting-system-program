@@ -1,0 +1,6 @@
+Fonte,Dafuq,0108206432085,Female,FD787
+Kat,L,1234,Male,KL854
+KL,Lt,4567,Male,KL773
+Kat,L,1234,Male,KL158
+Kgalalelo,Mokotedi,0212215214082,Male,KM769
+Jay,Blurry,123456789098,Male,JB384

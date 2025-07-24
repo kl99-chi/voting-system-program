@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ElectionTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName
+comment2.target=java.util.ArrayList\ readPartiesFromFile(java.lang.String)
+comment3.params=fileName
+comment3.target=void\ displayResults(java.lang.String)
+comment4.params=voter\ partyIndex
+comment4.target=void\ castVote(Voter,\ int)
+comment5.params=
+comment5.target=boolean\ login()
+comment6.params=
+comment6.target=void\ register()
+comment7.params=fileName\ partyIndex
+comment7.target=void\ updateVoteCount(java.lang.String,\ int)
+numComments=8
